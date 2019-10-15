@@ -2,19 +2,20 @@
   "name": "monsters-roladex",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://akitocodes.github.io/monsters-rolodex",
+  "homepage": "https://akitocodes.github.io/monsters-roladex",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
-    "react-scripts": "3.2.0"
+    "react-scripts": "3.2.0",
+    "yarn": "^1.19.1"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy": "npm build",
+    "predeploy": "yarn build",
     "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
