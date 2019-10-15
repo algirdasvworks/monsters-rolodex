@@ -2,7 +2,7 @@
   "name": "monsters-roladex",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://akitocodes.github.io/monsters-roladex",
+  "homepage": "https://algirdasvworks.github.io/monsters-rolodex",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.10.2",
